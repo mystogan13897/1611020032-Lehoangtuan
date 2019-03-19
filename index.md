@@ -5,10 +5,10 @@
 ![GitHub Logo](/Downloads/1.jpg)
 
 Họ Tên | Trình Độ | Chuyên Môn | Kinh Nghệm Làm việc | Dự án Đã thực hiện
------------- | -------------
+------------ | ------------- | ------------- | ------------- | -------------
 lê hoàng tuân | sinh viên đại học cửu long | đại học | chưa có kinh nghiệm | laravel
 
-Họ Tên | Second Header
+Họ Tên | Trình Độ 
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
