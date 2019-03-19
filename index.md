@@ -1,7 +1,6 @@
 ## Đây là trang Thông tin cá nhân của lê hoàng tuấn
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 You can use the [editor on GitHub](https://github.com/mystogan13897/1611020032-Lehoangtuan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
