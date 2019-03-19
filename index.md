@@ -4,7 +4,7 @@
 
 Họ Tên | Trình Độ | Chuyên Môn | Kinh Nghệm Làm việc | Dự án Đã thực hiện
 ------------ | ------------- | ------------- | ------------- | -------------
-lê hoàng tuân | sinh viên đại học cửu long | đại học | chưa có kinh nghiệm | laravel
+lê hoàng tuân | sinh viên đại học cửu long | lập trình laravel | chưa có kinh nghiệm | laravel
 
 
 [liên kết đến dự án cá nhân](https://github.com/mystogan13897/1611020032-Lehoangtuan)
