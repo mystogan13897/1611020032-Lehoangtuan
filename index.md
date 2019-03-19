@@ -7,7 +7,7 @@ Họ Tên | Trình Độ | Chuyên Môn | Kinh Nghệm Làm việc | Dự án Đ
 lê hoàng tuân | sinh viên đại học cửu long | lập trình laravel | chưa có kinh nghiệm | laravel
 
 
-[liên kết đến dự án cá nhân](https://github.com/mystogan13897/1611020032-Lehoangtuan)
+[liên kết đến dự án cá nhân](https://github.com/mystogan13897/1611020032-Tuan)
 
 ## Địa chỉ
 ## facebook [Facebook](https://www.facebook.com/profile.php?id=100013035889036)
