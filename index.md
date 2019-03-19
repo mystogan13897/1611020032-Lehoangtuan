@@ -4,6 +4,11 @@
 
 ![GitHub Logo](/Downloads/1.jpg)
 
+## Họ Tên | Trình Độ | Chuyên Môn | Kinh Nghệm Làm việc | Dự án Đã thực hiện
+------------ | -------------
+lê hoàng tuân | sinh viên đại học cửu long | đại học | chưa có kinh nghiệm | [editor on GitHub](hthttps://github.com/hieuchnguyen/git-test/commit/8ff53e8bc94effe4934cfa34569ee0b39c8f8c2a)
+
+
 You can use the [editor on GitHub](https://github.com/mystogan13897/1611020032-Lehoangtuan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
